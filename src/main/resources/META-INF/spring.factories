@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kray.kraylimiter.KrayServiceAutoConfiguration, \
+  com.kray.kraylimiter.interceptor.ProductServiceInterceptor
